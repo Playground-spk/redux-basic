@@ -35,3 +35,26 @@
     box-shadow: none;
     background-color: #fee;
 }
+
+.counter-save {
+    width: 170px;
+    height: 40px;
+    font-size: 1.5rem;
+    background-color: crimson;
+    color: white;
+    border-right: 1px solid rgb(190, 22, 55);
+    border-bottom: 1px solid rgb(190, 22, 55);
+    box-shadow: 0 2px 2px rgb(180, 22, 54);
+    margin: 20px auto;
+    cursor: pointer;
+
+
+
+
+}
+
+.counter-save:hover {
+    width: 160px;
+    height: 39px;
+    margin: 23px auto;
+}
