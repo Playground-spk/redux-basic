@@ -16,4 +16,22 @@
     cursor: pointer;
     margin-left: 30px;
     margin-top: 15px;
+    box-shadow: 0 2px 2px #ccc;
+}
+
+
+.counter-panel:hover {
+    width: 155px;
+    height: 36px;
+    margin-left: 25px;
+}
+
+.counter-panel:active {
+    margin-left: 35px;
+    width: 145px;
+    height: 34px;
+    border-right: none;
+    border-bottom: none;
+    box-shadow: none;
+    background-color: #fee;
 }
